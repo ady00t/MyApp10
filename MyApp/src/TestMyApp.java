@@ -27,7 +27,7 @@ import junit.framework.TestCase;
  */
 
 @RunWith(value = Parameterized.class)
-public class TestMyClass {
+public class TestMyApp {
     private static int tearDownCount = 0;
     private static int setUpCount = 0;
     private int parameter;
